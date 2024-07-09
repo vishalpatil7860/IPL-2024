@@ -1,0 +1,24 @@
+/* Center the page title */
+h1 {
+    text-align: center;
+    color: #4CAF50;
+    margin-bottom: 50px;
+}
+
+/* Customize the sidebar */
+.css-1d391kg {
+    background-color: #f0f0f5;
+}
+
+/* Highlight the headers */
+h2, h3 {
+    color: #3e3e52;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* Add padding to the dataframes */
+.stDataFrame {
+    padding: 10px;
+}
